@@ -15,6 +15,7 @@
     "build": "react-scripts build",
     "deploy": "npm run build &&gh-pages -d build"
   },
+  "homepage": "https://jejj0719.github.io/movie_app_renewal",
   "eslintConfig": {
     "extends": "react-app"
   },
@@ -28,8 +29,7 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ],
-    "homepage": "https://jejj0719.github.io/movie_app_renewal"
+    ]
   },
   "devDependencies": {
     "gh-pages": "^2.2.0"
